@@ -32,7 +32,6 @@ compile 'com.crevation.NgTime:crev-NgTime:0.1'
 	//you can as well use other languages available
         Time igbo = new Igbo();
         Time hausa = new Hausa();
-        Time english = new English();
 
         String yorubaTime = yoruba.getTime("4:00");
         String currentTime = yoruba.getCurrentTime();
