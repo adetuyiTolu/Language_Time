@@ -43,15 +43,16 @@ compile 'com.crevation.NgTime:crev-NgTime:0.1'
 
 	Thank you for showing interest to contribute to this project, we are looking forward to
 	adding more languages, English is already in pipeline
-	All you need to do is:
-		* Provide translation rules for the language to be added, see [English Constants](nglocaltimes/src/main/java/com/crevation/nglocaltime/english/Constants.java) for sample
-		*[email us](mailto:tolu.adetuyi@gmail.com)
+All you need to do is:
+* Provide translation rules for the language to be added, see [English Constants](nglocaltimes/src/main/java/com/crevation/nglocaltime/english/Constants.java) for sample.
+
+*[Email us](mailto:tolu.adetuyi@gmail.com)
 		
 ## License
 
-    Copyright 2017 Adetuyi Tolu Emmanuel
+   Copyright 2017 Adetuyi Tolu Emmanuel
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at [Apache license 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at [Apache license 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
