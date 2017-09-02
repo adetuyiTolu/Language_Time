@@ -35,8 +35,8 @@ compile 'com.crevation.NgTime:crev-NgTime:0.1'
 
         String yorubaTime = yoruba.getTime("4:00");
         String currentTime = yoruba.getCurrentTime();
-        String calendarTimeyoruba.getTime(Calendar.getInstance());
-        String dateTime =yoruba.getTime(new Date());   
+        String calendarTime = yoruba.getTime(Calendar.getInstance());
+        String dateTime = yoruba.getTime(new Date());   
 ```
 ## Test
 
