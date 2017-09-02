@@ -42,6 +42,10 @@ compile 'com.crevation.NgTime:crev-NgTime:0.1'
 
 There is a local unit test class [here](nglocaltimes/src/test/java/com/crevation/nglocaltime/LanguageUnitTest.java) in the test folder
 
+## Contributors
+* [Adetuyi Tolu Emmanuel](https://twitter.com/AdetuyiTolu)
+* [Iliya Kazah Daniel](https://www.facebook.com/iliya.daniel.9843) Hausa instructor
+
 ## Contributions
 
 	Thank you for showing interest to contribute to this project, we are looking forward to
@@ -50,7 +54,7 @@ All you need to do is:
 * Provide translation rules for the language to be added, see [English Constants](nglocaltimes/src/main/java/com/crevation/nglocaltime/english/Constants.java) for sample.
 
 * [Email us](mailto:tolu.adetuyi@gmail.com) for more information
-		
+	
 ## License
 
    Copyright 2017 Adetuyi Tolu Emmanuel
