@@ -38,6 +38,9 @@ compile 'com.crevation.NgTime:crev-NgTime:0.1'
         String calendarTimeyoruba.getTime(Calendar.getInstance());
         String dateTime =yoruba.getTime(new Date());   
 ```
+## Test
+
+There is a local unit test script in the [test](nglocaltimes/src/test/java/com/crevation/nglocaltime/LanguageUnitTest.java) folder
 
 ## Contributions
 
@@ -46,7 +49,7 @@ compile 'com.crevation.NgTime:crev-NgTime:0.1'
 All you need to do is:
 * Provide translation rules for the language to be added, see [English Constants](nglocaltimes/src/main/java/com/crevation/nglocaltime/english/Constants.java) for sample.
 
-* [Email us](mailto:tolu.adetuyi@gmail.com)
+* [Email us](mailto:tolu.adetuyi@gmail.com) for more information
 		
 ## License
 
