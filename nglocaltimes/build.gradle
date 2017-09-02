@@ -23,7 +23,7 @@ publish {
     groupId = 'com.crevation.NgTime'
     artifactId = 'crev-NgTime'
     publishVersion = '0.1'
-    desc = 'A library that converts Time to its equivalent basic local Nigeria languages (Yoruba, Hausa and Igbo)'
+    desc = 'A library that converts Time to its equivalent basic local Nigeria languages (English, Hausa and Igbo)'
     licences = ['Apache-2.0']
     website = 'https://github.com/adetuyiTolu/Language_Time'
 }

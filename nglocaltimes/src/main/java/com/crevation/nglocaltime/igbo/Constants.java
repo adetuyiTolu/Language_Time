@@ -42,9 +42,9 @@
      static final String number29="Ogu na itoolu";
      static final String number30="Ogu na iri";
      static final String TIME_POINTER=" Elekere ";
-     static final String AFTER_POINTER=" O ji nkeji ";
+     static final String AFTER_POINTER="O ji nkeji ";
      static final String AFTER_POINTER2=" gafee ";
-     static final String BEFORE_POINTER=" O foro nkeji ";
+     static final String BEFORE_POINTER="O foro nkeji ";
      static final String BEFORE_POINTER2=" ka o kuo ";
      static final String night="abani";
      static final String morning="ututu";
