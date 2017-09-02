@@ -46,7 +46,7 @@ compile 'com.crevation.NgTime:crev-NgTime:0.1'
 All you need to do is:
 * Provide translation rules for the language to be added, see [English Constants](nglocaltimes/src/main/java/com/crevation/nglocaltime/english/Constants.java) for sample.
 
-*[Email us](mailto:tolu.adetuyi@gmail.com)
+* [Email us](mailto:tolu.adetuyi@gmail.com)
 		
 ## License
 
