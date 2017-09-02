@@ -43,7 +43,7 @@ compile 'com.crevation.NgTime:crev-NgTime:0.1'
 There is a local unit test class [here](nglocaltimes/src/test/java/com/crevation/nglocaltime/LanguageUnitTest.java) in the test folder
 
 ## Contributors
-* [Adetuyi Tolu Emmanuel](https://twitter.com/AdetuyiTolu)
+* [Adetuyi Tolu Emmanuel](https://twitter.com/AdetuyiTolu) Developer
 * [Iliya Kazah Daniel](https://www.facebook.com/iliya.daniel.9843) Hausa instructor
 
 ## Contributions
