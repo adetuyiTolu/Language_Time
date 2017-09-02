@@ -40,7 +40,7 @@ compile 'com.crevation.NgTime:crev-NgTime:0.1'
 ```
 ## Test
 
-There is a local unit test script in the [here](nglocaltimes/src/test/java/com/crevation/nglocaltime/LanguageUnitTest.java) in the test folder
+There is a local unit test class [here](nglocaltimes/src/test/java/com/crevation/nglocaltime/LanguageUnitTest.java) in the test folder
 
 ## Contributions
 
