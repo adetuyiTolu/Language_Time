@@ -28,6 +28,6 @@ public class LanguageUnitTest {
         System.out.println(yoruba.getTime("4:00"));
         System.out.println(igbo.getTime("4:15"));
         System.out.println(hausa.getTime("4:35"));
-        System.out.println(english.getTime("4:00"));
+        System.out.println(english.getCurrentTime());
     }
 }
