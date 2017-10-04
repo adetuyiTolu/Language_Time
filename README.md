@@ -43,6 +43,7 @@ There is a local unit test class [here](nglocaltimes/src/test/java/com/crevation
 
 ## Contributors
 * [Adetuyi Tolu Emmanuel](https://twitter.com/AdetuyiTolu) Developer
+* [Idorenyin Obong](https://twitter.com/kingidee) Developer
 * [Iliya Kazah Daniel](https://www.facebook.com/iliya.daniel.9843) Hausa instructor
 
 ## Contributions
