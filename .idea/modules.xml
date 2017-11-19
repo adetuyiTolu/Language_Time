@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Language_Time.iml" filepath="$PROJECT_DIR$/Language_Time.iml" />
       <module fileurl="file://$PROJECT_DIR$/NgLocalTime.iml" filepath="$PROJECT_DIR$/NgLocalTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nglocaltimes/nglocaltimes.iml" filepath="$PROJECT_DIR$/nglocaltimes/nglocaltimes.iml" />
       <module fileurl="file://$PROJECT_DIR$/nglocaltimes/nglocaltimes.iml" filepath="$PROJECT_DIR$/nglocaltimes/nglocaltimes.iml" />
     </modules>
   </component>
