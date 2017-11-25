@@ -1,6 +1,6 @@
 # Language_Time
 
-A library that converts Time to its equivalent local languages starting with three basic Nigeria languages(Yoruba, Hausa, Igbo, Efik and English) 
+A library that converts Time to its equivalent local languages starting with some basic Nigeria languages(Yoruba, Hausa, Igbo, Efik and English) 
 
 ## Setting up
 
