@@ -1,4 +1,4 @@
-package com.crevation.nglocaltime;
+package com.crevation.timeTest;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

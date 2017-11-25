@@ -17,7 +17,7 @@ public interface Time {
     /**
      * This method returns equivalent time in local language
      *
-     * @param time
+     * @param time Date to be converted
      * @return String
      */
     String getTime(Date time);
@@ -26,7 +26,7 @@ public interface Time {
     /**
      * This method returns equivalent time in local language
      *
-     * @param time
+     * @param time Calendar time to be converted
      * @return String
      */
     String getTime(Calendar time);
@@ -35,7 +35,7 @@ public interface Time {
     /**
      * This method returns equivalent time in local language
      *
-     * @param time
+     * @param time Time to be converted
      * @return String
      */
     String getTime(String time) throws NumberFormatException, ArrayIndexOutOfBoundsException;
