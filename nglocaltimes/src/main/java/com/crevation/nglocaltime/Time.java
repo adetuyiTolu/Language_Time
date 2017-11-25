@@ -9,14 +9,43 @@ import java.util.Calendar;
 import java.util.Date;
 
 /**
- *
  * @author toluadetuyi
  */
 public interface Time {
-    
+
+
+    /**
+     * This method returns equivalent time in local language
+     *
+     * @param time
+     * @return String
+     */
     String getTime(Date time);
+
+
+    /**
+     * This method returns equivalent time in local language
+     *
+     * @param time
+     * @return String
+     */
     String getTime(Calendar time);
+
+
+    /**
+     * This method returns equivalent time in local language
+     *
+     * @param time
+     * @return String
+     */
     String getTime(String time);
+
+
+    /**
+     * This method returns current time in local language
+     *
+     * @return String
+     */
     String getCurrentTime();
-    
+
 }
