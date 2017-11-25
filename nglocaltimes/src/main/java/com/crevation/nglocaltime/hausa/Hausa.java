@@ -36,6 +36,8 @@ public class Hausa implements Time{
         
         }catch(NumberFormatException e){
             return "Error parsing time";
+        }catch (ArrayIndexOutOfBoundsException aex){
+            return "incorrect input";
         }
     }
     

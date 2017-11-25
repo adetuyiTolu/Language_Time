@@ -38,7 +38,7 @@ public interface Time {
      * @param time
      * @return String
      */
-    String getTime(String time);
+    String getTime(String time) throws NumberFormatException, ArrayIndexOutOfBoundsException;
 
 
     /**

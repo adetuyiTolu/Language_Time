@@ -28,7 +28,9 @@ public class Efik implements Time {
             int minute = Integer.parseInt(time.split("\\:")[1]);
             return getTimeHour(hour, minute);
         } catch (NumberFormatException e) {
-            return "";
+            return "incorrect input";
+        } catch (ArrayIndexOutOfBoundsException aex) {
+            return "incorrect input";
         }
     }
 

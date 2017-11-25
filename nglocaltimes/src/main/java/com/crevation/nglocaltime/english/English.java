@@ -44,7 +44,9 @@ public class English implements Time {
 
         } catch (NumberFormatException e) {
 
-            return "";
+            return "incorrect input";
+        }catch (ArrayIndexOutOfBoundsException aex){
+            return "incorrect input";
         }
     }
 

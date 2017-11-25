@@ -32,6 +32,7 @@ public class LanguageUnitTest {
         System.out.println(hausa.getTime("4:15"));
         System.out.println(english.getTime("4:15"));
         System.out.println(efik.getTime("4:15"));
+        System.out.println(efik.getTime("45"));
     }
 
     @Test
