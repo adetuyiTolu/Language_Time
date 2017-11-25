@@ -1,6 +1,6 @@
 # Language_Time
 
-A library that converts Time to its equivalent basic local Nigeria languages (Yoruba, Hausa and Igbo)
+A library that converts Time to its equivalent local languages starting with three basic Nigeria languages(Yoruba, Hausa and Igbo) 
 
 ## Setting up
 
@@ -43,12 +43,13 @@ There is a local unit test class [here](nglocaltimes/src/test/java/com/crevation
 
 ## Contributors
 * [Adetuyi Tolu Emmanuel](https://twitter.com/AdetuyiTolu) Developer
+* [Idorenyin Obong](https://twitter.com/kingidee) Developer
 * [Iliya Kazah Daniel](https://www.facebook.com/iliya.daniel.9843) Hausa instructor
 
 ## Contributions
 
 	Thank you for showing interest to contribute to this project, we are looking forward to
-	adding more languages, English is already in pipeline
+	adding more languages, Efik is already in pipeline
 All you need to do is:
 * Provide translation rules for the language to be added, see [English Constants](nglocaltimes/src/main/java/com/crevation/nglocaltime/english/Constants.java) for sample.
 
