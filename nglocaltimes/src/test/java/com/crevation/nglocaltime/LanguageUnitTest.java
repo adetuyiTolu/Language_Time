@@ -10,6 +10,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotEquals;
 
 /**
  * Example local unit test, which will execute on the development machine (host).
@@ -52,7 +53,12 @@ public class LanguageUnitTest {
         assertEquals(yoruba.getTime("4:00"), "Aago Merin");
 
     }
+    @Test
+    public void yoruba_notCorrect() throws Exception {
 
+        assertNotEquals("This input is incorrect",yoruba.getTime("4:00"), "Aago Merinla");
+
+    }
     @Test
     public void igbo_isCorrect() throws Exception {
 
