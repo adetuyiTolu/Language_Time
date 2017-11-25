@@ -1,6 +1,6 @@
 # Language_Time
 
-A library that converts Time to its equivalent local languages starting with three basic Nigeria languages(Yoruba, Hausa and Igbo) 
+A library that converts Time to its equivalent local languages starting with three basic Nigeria languages(Yoruba, Hausa, Igbo, Efik and English) 
 
 ## Setting up
 
@@ -11,7 +11,7 @@ A library that converts Time to its equivalent local languages starting with thr
 <dependency>
   <groupId>com.crevation.NgTime</groupId>
   <artifactId>crev-NgTime</artifactId>
-  <version>0.1</version>
+  <version>1.1</version>
   <type>pom</type>
 </dependency>
 ```
@@ -19,6 +19,7 @@ A library that converts Time to its equivalent local languages starting with thr
 *  Gradle
 ```groovy
 compile 'com.crevation.NgTime:crev-NgTime:0.1'
+compile 'com.crevation.NgTime:crev-NgTime:1.1'
 ```
 
 ## Usage
@@ -31,6 +32,8 @@ compile 'com.crevation.NgTime:crev-NgTime:0.1'
 	//you can as well use other languages available
         Time igbo = new Igbo();
         Time hausa = new Hausa();
+	Time english = new English();
+	Time efik = new Efik();
 
         String yorubaTime = yoruba.getTime("4:00");
         String currentTime = yoruba.getCurrentTime();
