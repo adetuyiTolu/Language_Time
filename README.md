@@ -21,6 +21,7 @@ A library that converts Time to its equivalent local languages starting with som
 compile 'com.crevation.NgTime:crev-NgTime:0.1'
 
 		OR
+		
 compile 'com.crevation.NgTime:crev-NgTime:1.1'
 ```
 
