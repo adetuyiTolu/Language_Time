@@ -55,7 +55,7 @@ There is a local unit test class [here](nglocaltimes/src/test/java/com/crevation
 ## Contributions
 
 	Thank you for showing interest to contribute to this project, we are looking forward to
-	adding more languages, Efik is already in pipeline
+	adding more languages.
 All you need to do is:
 * Provide translation rules for the language to be added, see [English Constants](nglocaltimes/src/main/java/com/crevation/nglocaltime/english/Constants.java) for sample.
 
