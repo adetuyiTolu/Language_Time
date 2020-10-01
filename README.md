@@ -1,6 +1,6 @@
 # Language_Time
 
-A library that converts Time to its equivalent local languages starting with some basic Nigeria languages(Yoruba, Hausa, Igbo, Efik and English) 
+A library which converts "Time" to its equivalent local languages starting with some basic Nigeria languages like -(Yoruba, Hausa, Igbo, Efik and English) 
 
 ## Setting up
 
@@ -45,7 +45,7 @@ compile 'com.crevation.NgTime:crev-NgTime:1.1'
 ```
 ## Test
 
-There is a local unit test class [here](nglocaltimes/src/test/java/com/crevation/nglocaltime/LanguageUnitTest.java) in the test folder
+There's a local unit test class [here](nglocaltimes/src/test/java/com/crevation/nglocaltime/LanguageUnitTest.java) in the test folder.
 
 ## Contributors
 * [Adetuyi Tolu Emmanuel](https://twitter.com/AdetuyiTolu) Developer
